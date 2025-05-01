@@ -1,0 +1,11 @@
+.venv
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.DS_*
+
+key.json
+scratch
+
+# C extensions
+*.so
